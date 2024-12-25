@@ -1,4 +1,6 @@
 # Interactive-periodic-table.github.io
+
+Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features.
  
 Hey I created a Full Responsive interactive Periodic table with Hover Features , You can easily learn all the periodic table and their atomic values and details with ease with our webapp.
 
